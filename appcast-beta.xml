@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>FixMySpine Beta Updates</title>
+    <link>https://github.com/ombichave999/FixMySpine-Releases</link>
+    <description>Beta and early access updates to FixMySpine</description>
+    <language>en</language>
+    <item>
+      <title>FixMySpine v4.1-beta1</title>
+      <sparkle:channel>beta</sparkle:channel>
+      <description><![CDATA[
+        <h2>FixMySpine v4.1-beta1 Beta Release Notes</h2>
+        <p>FixMySpine 4.1 Beta: Instant launch background checks, 10-minute auto-polling, and live Menu Bar update dot indicator.</p>
+      ]]></description>
+      <pubDate>Tue, 18 Aug 2026 02:51:08 +0530</pubDate>
+      <enclosure url="https://github.com/ombichave999/FixMySpine-Releases/releases/download/v4.1-beta1/FixMySpine-Beta.dmg"
+                 sparkle:version="4.1-beta1"
+                 sparkle:shortVersionString="4.1-beta1"
+                 length="2667590"
+                 type="application/x-apple-diskimage"
+                 sparkle:edSignature="/BDQBBip+SOXzx0jJ1HI4p3GG9uXrhCPmwEYN3j8OemxP1ixyCJausDkSDBYbVZMLlw6j1ffB6p98LGzjh9IAg==" />
+    </item>
+  </channel>
+</rss>
